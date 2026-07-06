@@ -1,0 +1,7 @@
+-- This module is the root of the StableBorelConjectureCanonicalLaneLean Lean proof package.
+import StableBorelConjectureCanonicalLaneLean.Basic
+import StableBorelConjectureCanonicalLaneLean.SourcePackage
+import StableBorelConjectureCanonicalLaneLean.SourceDependencies
+import StableBorelConjectureCanonicalLaneLean.Formalization
+import StableBorelConjectureCanonicalLaneLean.ReviewerBridge
+import StableBorelConjectureCanonicalLaneLean.TheoremStatement
